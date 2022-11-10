@@ -17,6 +17,4 @@ Usage instruction is located in the documents folder of this repository.
 
 ## File Compare ##
 
-File Compare allows you to compare lists of filenames. This could be a list from a directory to a list of filenames obtained from an external source of metadata. 
-
-An example would be a list from a database or spreadsheet. With accessions of several thousand unique files, this tool expedites the process of making sure the external metadata matches up exactly with the files received from the agency.
+File Compare allows you to compare lists of filenames. This could be a list from a directory to a list of filenames obtained from an external source of metadata. An example would be a list from a database or spreadsheet. With accessions of several thousand unique files, this tool expedites the process of making sure the external metadata matches up exactly with the files received from the agency.
