@@ -18,3 +18,6 @@ Usage instruction is located in the documents folder of this repository.
 ## File Compare ##
 
 File Compare allows you to compare lists of filenames. This could be a list from a directory to a list of filenames obtained from an external source of metadata. An example would be a list from a database or spreadsheet. With accessions of several thousand unique files, this tool expedites the process of making sure the external metadata matches up exactly with the files received from the agency.
+
+## Funny Filename Finder ##
+Funny Filename Finder allows users to to identify invalid characters that do not meet ASCII standards within filenames. The presence of these characters can lead to issues when attempting to move or open impacted files. 
